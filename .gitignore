@@ -1,0 +1,6 @@
+*.exe
+*.dsym
+main.code-workspace
+.vscode
+cmake-build-debug
+build
